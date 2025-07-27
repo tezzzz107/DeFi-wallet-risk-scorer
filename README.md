@@ -220,16 +220,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This tool is for educational and analytical purposes. Risk scores should not be the sole basis for financial decisions. Always conduct additional due diligence and consider multiple factors when assessing DeFi lending risk.
 
-## 🔗 Related Resources
-
-- [Compound Protocol Documentation](https://compound.finance/docs)
-- [DeFi Risk Assessment Best Practices](https://defipulse.com)
-- [Ethereum Transaction Analysis](https://etherscan.io)
-
-## 📧 Support
-
-For questions or support, please open an issue in the GitHub repository or contact [your-email@domain.com].
-
----
-
-**Built for the DeFi community** 🚀
