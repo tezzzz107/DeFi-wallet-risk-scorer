@@ -1,0 +1,38 @@
+# Core data processing and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# HTTP requests for API calls
+requests>=2.28.0
+
+# Machine learning and preprocessing
+scikit-learn>=1.1.0
+
+# Date and time handling (built-in, but listed for clarity)
+# datetime - built-in Python module
+
+# JSON handling (built-in)
+# json - built-in Python module
+
+# CSV handling (built-in)
+# csv - built-in Python module
+
+# Optional: For enhanced data analysis and visualization
+# matplotlib>=3.5.0
+# seaborn>=0.11.0
+# plotly>=5.0.0
+
+# Optional: For Jupyter/Google Colab compatibility
+# jupyter>=1.0.0
+# ipython>=7.0.0
+
+# Optional: For progress bars during processing
+# tqdm>=4.64.0
+
+# Optional: For enhanced warnings control
+# warnings - built-in Python module
+
+# Development dependencies (uncomment if needed)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
